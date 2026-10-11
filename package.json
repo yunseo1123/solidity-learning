@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-test",
+  "name": "hw",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
-    "hardhat": "^2.26.0",
-    "typescript": "^5.4.5"
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@types/node": "^26.6.5",
+    "hardhat": "^2.29.1",
+    "ts-node": "^10.9.2",
+    "typescript": "5.4"
   }
 }
